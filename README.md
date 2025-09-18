@@ -6,13 +6,8 @@ It contains projects, case studies, and practice exercises that demonstrate my a
 
 ## 🔎 About Me
 - 🎓 Background in IT Support, transitioning into **Data Analytics**  
-- 📈 Interested in **business intelligence, reporting, and process optimization**  
-- 🛠️ Skilled in:
-  - **SQL** (MySQL)
-  - **Power BI** (Dashboards, DAX, Data Modeling)
-  - **Excel** (Pivot Tables, Formulas, Power Query)
-  - **Python** (pandas, matplotlib, seaborn – ongoing learning)
-
+- 📈 Interested in **business intelligence, reporting, and process optimization**
+- 
 ---
 
 ## 📂 Projects
