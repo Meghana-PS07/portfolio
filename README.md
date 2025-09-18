@@ -19,7 +19,7 @@ It contains projects, case studies, and practice exercises that demonstrate my a
 - Analyzed **seasonality, top products, and revenue growth**  
 - Created KPI cards for **Monthly Sales, Profit Margin, and YoY Comparison**
 
-### **Customer Segmentation (SQL + Power BI)**
-- Cleaned and queried customer dataset in **MySQL**  
-- Applied **GROUP BY, JOINS, and aggregate functions** to generate insights  
-- Built **Power BI dashboard** to segment customers based on purchase frequency
+### [HR Attrition Analysis (Excel + Power BI)](https://meghana-ps07.github.io/HR_Atrrition_Analysis_Project_Meghana_PS/)
+- Cleaned raw HR dataset in Excel using **Power Query**  
+- Built **attrition trend analysis dashboard** with interactive slicers  
+- Identified patterns in attrition by **age, role, and department*
