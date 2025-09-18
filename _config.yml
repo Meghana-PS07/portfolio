@@ -6,6 +6,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
 
-# Custom CSS
-sass:
-  style: compressed
+
