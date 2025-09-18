@@ -3,11 +3,12 @@
 ### Welcome to my **Data Analytics Portfolio**!  
 This repository showcases my journey in **Data Analysis, Business Intelligence, and Data Visualization**.  
 It contains projects, case studies, and practice exercises that demonstrate my ability to clean, analyze, and visualize data for actionable insights.  
+-----
 
 ## 🔎 About Me
 - 🎓 Background in IT Support, transitioning into **Data Analytics**  
 - 📈 Interested in **business intelligence, reporting, and process optimization**
-- 
+
 ---
 
 ## 📂 Projects
