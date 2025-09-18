@@ -1,7 +1,7 @@
 # 📊Portfolio
 
 ### Welcome to my **Data Analytics Portfolio**!  
-This repository showcases my journey in **Data Analysis, Business Intelligence, and Data Visualization** using tools like **SQL, Power BI, Excel, and Python**.  
+This repository showcases my journey in **Data Analysis, Business Intelligence, and Data Visualization**.  
 It contains projects, case studies, and practice exercises that demonstrate my ability to clean, analyze, and visualize data for actionable insights.  
 
 ## 🔎 About Me
