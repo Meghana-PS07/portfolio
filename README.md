@@ -33,6 +33,7 @@ Here, you’ll find **projects, case studies, and practice exercises** that high
 ---
 
 ### [🎮 FarmDale Video Game Product Strategy & Infographic](https://meghana-ps07.github.io/FarmDale-Portfolio/)
+![FarmDale](assets/img/Screenshot2025-09-26203149.png)
 - ❓ *Problem:* Mid-to-late stage players dropping off, impacting revenue growth  
 - 🔧 *Work Done:* Analyzed **player retention challenges**, created **infographics and dashboards** to track churn & engagement  
 - 🎯 *Outcome:* Proposed a **5-step framework** (rewards, faster progression, special events, A/B testing, monitoring) to improve **player retention, engagement, and monetization**  
