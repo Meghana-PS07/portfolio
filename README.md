@@ -25,6 +25,7 @@ Here, you’ll find **projects, case studies, and practice exercises** that high
 ## 📂 Projects
 
 ### [📉 HR Attrition Analysis (Excel + Power BI)](https://meghana-ps07.github.io/HR_Atrrition_Analysis_Project_Meghana_PS/)
+![HR Attrition Dashboard](assets/img/HRAnalytics.png)
 - ❓ *Problem:* High employee attrition but no clear visibility on patterns  
 - 🔧 *Work Done:* Cleaned raw HR dataset in Excel using **Power Query**; created an interactive Power BI dashboard  
 - 🎯 *Outcome:* Identified attrition trends by **age, role, and department**, helping HR target retention strategies  
